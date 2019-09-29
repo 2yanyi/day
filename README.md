@@ -5,6 +5,8 @@ this day
 
 ## Install
 
-- Copy run shell
+-  Copy run is Terminal
 
+```sh
 wget https://github.com/xzyan/day/releases/download/build.0/day.tar.gz;tar -xf day.tar.gz;sudo mv day /bin
+```
