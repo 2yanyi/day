@@ -13,4 +13,4 @@ wget https://github.com/xzyan/day/releases/download/build.0/day.tar.gz;tar -xf d
 
 ## start
 
-Terminal中输入**day**回车
+终端输入 **day** 回车
